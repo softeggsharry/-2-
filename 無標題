@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <title>anita 10-2</title>
+	    
+
+</Head>
+
+   <body bgcolor="yellow" text="black" background="10.jpg" style="border:15px doble pink; font-size:50px">
+   <div style="border : 3px dotted white; text-align: center ;font-size : 20px">	
+       
+         <hr>
+        <hr>
+      <h1>Dog!!!</h1>
+     
+  
+       <h1>Let's see these cuts puppies!!</h1>
+       <img src="1.jpg" alt="one golden puppy and many puppy doll">
+
+<hr>
+       
+       <h1>What are U looking at??????</h1> 
+       
+       <img src="2.jpg" alt="cute dog">
+
+       
+       <h1>One golden puppy and many puppy doll:)</h1>
+       
+       <img src="3.jpg" alt="one golden puppy and many puppy doll">
+<h1>Two little golden puppy</h1>
+       
+       <img src="4.jpg" alt="two little golden puppy" >
+
+       
+       <h1>They are so cute~</h1>
+       
+       <img src="5.jpg" alt="They are so cute~" >
+
+       
+       <h1>Puppy are running!!!!</h1>
+       
+       <img src="6.jpg" alt="Puppy are running!!!!" >
+  
+       
+       <h1>They are so cute~</h1>
+       
+       <img src="7.jpg" alt="Puppy are running!!!!" >
+
+       
+       <h1>Is he hungry?????</h1>
+       
+       <img src="8.jpg" alt="Puppy are running!!!!" >
+       
+       
+       <h1>"This doll is my friend!"</h1>
+       
+       <img src="9.jpg" alt="Puppy are running!!!!" >
+
+ <h1>Kiss~~~</h1>
+       
+       <img src="0.jpg" alt="Puppy are running!!!!" >
+       
+
+       <h1>"I want to take a bath~"</h1>
+       
+       <img src="1.jpg" alt="Puppy are running!!!!" >
+       
+       <hr>
+       <hr>
+  </div>
+   </body>
+  
+</html>
